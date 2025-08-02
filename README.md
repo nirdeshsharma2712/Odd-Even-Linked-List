@@ -47,4 +47,4 @@ The first node is considered **odd**, and the second node is **even**, and so on
 ## 🛠️ Constraints
 
 - The number of `nodes` in the **linked list** is in the range `[0, 10^4]`
-- -10^6 <= Node.val <= 10^6
+- `10^6 <= Node.val <= 10^6`
