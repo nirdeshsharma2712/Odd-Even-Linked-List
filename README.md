@@ -22,10 +22,10 @@ The first node is considered **odd**, and the second node is **even**, and so on
 
 > - `odd->next = even->next`, then move `odd` forward.
 > - `even->next = odd->next`, then move `even` forward.
+> - Continue until end of **list**.
 
-- Continue until end of **list**.
-
-Finally, link the last odd node to the `head` of **even list** to complete the rearrangement.
+- Finally, link the last odd node to the `head` of **even list** to complete the rearrangement.
+- Return head of the List.
 
 
 
